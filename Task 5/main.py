@@ -16,6 +16,5 @@ stemmed_words = [stemmer.stem(word) for word in words]
 lemmatized_words = [lemmatizer.lemmatize(word) for word in words]
 
 # Print results
-print("\nOriginal Words:       ", words)
 print("\nStemmed Words:        ", stemmed_words)
 print("\nLemmatized Words:     ", lemmatized_words)
