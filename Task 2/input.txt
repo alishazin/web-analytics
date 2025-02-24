@@ -1,0 +1,6 @@
+Natural Language Toolkit (NLTK) works as a powerful Python
+library that a wide range of tools for Natural Language Processing
+(NLP). From fundamental tasks like text pre-processing to more
+advanced operations such as semantic reasoning, NLTK provides a
+versatile API that caters to the diverse needs of language-related
+tasks.
